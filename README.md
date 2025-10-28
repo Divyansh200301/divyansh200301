@@ -71,16 +71,16 @@ I'm a passionate developer focused on building intelligent applications that lev
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyansh200301&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh200301&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyansh200301&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh200301&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh200301&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=divyansh200301&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyansh200301&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh200301&theme=react-dark&hide_border=false&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -88,15 +88,15 @@ I'm a passionate developer focused on building intelligent applications that lev
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyansh200301&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divyansh200301&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh200301&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=divyansh200301&theme=radical" alt="Wakatime Stats" />
 </p>
 
 ---
