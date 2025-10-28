@@ -93,14 +93,6 @@ I'm a passionate developer focused on building intelligent applications that lev
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=divyansh200301&theme=radical" alt="Wakatime Stats" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=divyansh200301&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
