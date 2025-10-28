@@ -76,7 +76,7 @@ I'm a passionate developer focused on building intelligent applications that lev
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=divyansh200301&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=divyansh200301&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
