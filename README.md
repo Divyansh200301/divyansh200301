@@ -76,10 +76,6 @@ I'm a passionate developer focused on building intelligent applications that lev
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=divyansh200301&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh200301&theme=react-dark&hide_border=false&area=true" alt="Contribution Graph" />
 </p>
 
